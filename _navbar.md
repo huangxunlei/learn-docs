@@ -1,3 +1,3 @@
-* [中文](/)
-* [En](/english)
+* [Android](/android/)
+* [Kotlin](/kotlin/)
 
