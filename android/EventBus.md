@@ -1,6 +1,6 @@
 
 
-<img src="https://upload-images.jianshu.io/upload_images/2917250-76abb111b83fbb4d.png" width="500" height="200">
+![](https://raw.githubusercontent.com/huangxunlei/learn-docs/master/images/EventBus原理.png)
 
 ## 1、EventBus 简介
 
