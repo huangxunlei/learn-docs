@@ -2,7 +2,7 @@
 
 # Glide 流程
 
-<img src="https://raw.githubusercontent.com/huangxunlei/learn-docs/master/images/Glide流程.png" />
+<img src="../images/Glide流程.png" />
 
 ### Model
 

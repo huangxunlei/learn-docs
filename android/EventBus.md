@@ -1,6 +1,6 @@
 
 
-![](https://raw.githubusercontent.com/huangxunlei/learn-docs/master/images/EventBus原理.png)
+<img src="https://raw.githubusercontent.com/huangxunlei/learn-docs/master/images/EventBus原理.png" style="zoom:63%;" />
 
 ## 1、EventBus 简介
 
