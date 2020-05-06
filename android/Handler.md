@@ -8,7 +8,7 @@ Handler 负责发送消息
 
 Loooper 负责接收消息，并且将消息发送给Handler
 
-<img src="https://raw.githubusercontent.com/huangxunlei/learn-docs/master/images/Handler机制.bmp" width="300" hegiht="320" align=center />
+<img src="https://haungxunlei.gitee.io/learn-docs/images/Handler机制.bmp" width="300" hegiht="320" align=center />
 
 
 
