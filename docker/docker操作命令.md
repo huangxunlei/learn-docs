@@ -42,13 +42,10 @@ k8s 批量删除  移出的pod
 kubectl delete pods `kubectl get pods -n prod|grep Evicted |awk '{print $1}'` -n prod
 ```
 
-
-
 ```bash
-# 升级的时候 先设置 submitApiUpdate  设置为 600 设置为10分钟 更新完成之后 更新为-1即可再次提交工资册
-docker run -d -p 8888:8888 -v /RHZYDATA/xmc-B-logs:/data/logs registry.cn-shenzhen.aliyuncs.com/peopledata/prod-xmc-ldyg-upload:c7292ca
+docker run -d -p 8888:8888 -v /RHZYDATA/xmc-B-logs:/data/logs registry.cn-shenzhen.aliyuncs.com/peopledata/xxxxx:c7292ca
 
-docker run -d registry.cn-shenzhen.aliyuncs.com/peopledata/prod-smzv2-updata-v2:5500a487
+docker run -d registry.cn-shenzhen.aliyuncs.com/peopledata/xxxx:5500a487
 ```
 
 通过docker logs命令可以查看容器的日志。
