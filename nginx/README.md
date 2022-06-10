@@ -1,0 +1,1 @@
+- 1、在centos 7上安装nginx最新版
