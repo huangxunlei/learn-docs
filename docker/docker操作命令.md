@@ -1,6 +1,32 @@
 
 
+## docker打镜像
+
+ ### jar包打镜像
+
+Dockerfile
+
+```bash
+FROM openjdk:8-jdk-alpine
+# 将jar包添加到容器
+ADD *.jar  app.jar
+# 定义容器启动执行的命令
+# CMD java -Xmx1024m -jar app.jar --spring.profiles.active=prod
+ENTRYPOINT ["java","-Xmx1024m","-Xmx1024m","-jar","app.jar","--spring.profiles.active=prod","-c"]
+```
+
+### 制作镜像命令
+
+```bash
+# 记住后面有顿号
+docker build -f Dockerfile -t 镜像名称:版本号 .
+```
+
+
+
 ## 1、docker复制
+
+
 
 ### 1.1 从容器内复制到宿主机
 
