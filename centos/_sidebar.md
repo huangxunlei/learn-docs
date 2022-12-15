@@ -1,0 +1,3 @@
+- [安装Java JDK](/centos/安装javaJDK)
+- [cento操作](/centos/centos操作)
+- [安装rz](/centos/安装rz)

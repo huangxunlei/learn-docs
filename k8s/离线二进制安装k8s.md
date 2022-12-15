@@ -467,7 +467,7 @@ EOF
 node1**
 
 ````
-    [root@node1 etcd]# vim /opt/etcd/cfg/etcd
+[root@node1 etcd]# vim /opt/etcd/cfg/etcd
 //[Member]
 ETCD_NAME="etcd02"                      //节点名称
 ETCD_DATA_DIR="/var/lib/etcd/default.etcd"
