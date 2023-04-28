@@ -6,4 +6,5 @@
 - [ButterKnife](/android/ButterKnife)
 - [jni开发学习教程](/android/jni开发学习教程)
 - [RecyclerView](/android/RecyclerView)
+- [镂空效果](/android/android实现镂空效果.md) 
 
