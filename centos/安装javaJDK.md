@@ -52,7 +52,7 @@ source /etc/profile
 添加软连接
 
 ```bash\
-ln -s /usr/local/java/jdk1.8.0_271/bin/java /usr/bin/java
+ln -s /usr/local/java/jdk1.8.0_371/bin/java /usr/bin/java
 ```
 
 检查

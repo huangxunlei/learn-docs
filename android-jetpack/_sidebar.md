@@ -2,4 +2,5 @@
 - [AppStartup](/android-jetpack/AppStartup)
 - [Hilt](/android-jetpack/Hilt)
 - [Room持久性库](/android-jetpack/Room持久性库)
+- [Pager3](/android-jetpack/Pager)
 
