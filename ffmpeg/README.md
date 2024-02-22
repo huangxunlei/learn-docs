@@ -1,0 +1,2 @@
+-  android  编译
+- https://github.com/mucephi/ffplay
