@@ -1,3 +1,4 @@
 - [安装Java JDK](/centos/安装javaJDK)
 - [cento操作](/centos/centos操作)
 - [安装rz](/centos/安装rz)
+- [服务启动](/centos/制作服务.md)
