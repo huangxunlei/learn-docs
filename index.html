@@ -7,7 +7,12 @@
   <meta name="description" content="Description">
   <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
  <link rel="stylesheet" href="//unpkg.com/docsify/lib/themes/vue.css">
+<style type="text/css">
+.medium-zoom-image {
+zoom:60%
+}
 
+</style>
 </head>
 
 <body>
@@ -37,7 +42,11 @@
 	  tabs: {
         persist: true // default
            },
-	   themeColor: "#42b983"
+	   themeColor: "#42b983",
+   zoomImage:{
+   maxScale:2,
+minScale:0.5
+}
     }
   </script>
  <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
