@@ -194,4 +194,4 @@
 
 ## vue官网的Eslint 规则
 
- https://eslint.vuejs.org/rules
+ https://eslint.vuejs.org/rulesget

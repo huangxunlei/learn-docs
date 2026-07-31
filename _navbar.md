@@ -6,7 +6,7 @@
 * [docker](/docker/)
   * [nginx](/nginx/)
 * [k8s](/k8s/)
-* [考试](/exam/)
+* [web](/web/)
 * [flutter](/flutter/)
 * [ES](/Elasticsearch/)
 * [linux](/centos/)

@@ -1,8 +1,8 @@
 ##  git 操作
 
-### 1.1  设置git的代理
+### 1、 设置git的代理
 
-#### 1、全局代理设置
+#### 1.1 全局代理设置
 
 ```bash
 git config --global http.proxy http://127.0.0.1:1080
@@ -20,5 +20,14 @@ git config --global --unset https.proxy
 
 ```bash
 git config --global -l
+```
+
+
+
+## 2、忽略 Git Hooks   Husky  等代码格式提交的限制
+
+```bash
+# 在提交后面 增加 --no-verify
+git commit -m 'V6' --no-verify
 ```
 
