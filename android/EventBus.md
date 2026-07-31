@@ -1,6 +1,6 @@
 
 
-![EventBus原理](../images/EventBus原理.png){width=300px,height=200px}
+![EventBus原理](../images/EventBus原理.png ':zoom:60%'){style="zoom:63%;}
 
 
 
