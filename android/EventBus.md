@@ -1,8 +1,6 @@
 
 
-![EventBus原理](../images/EventBus原理.png){width=500px;height=300px;}
-
-
+![EventBus原理](../images/EventBus原理.png)
 
 
 ## 1、EventBus 简介

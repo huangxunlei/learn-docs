@@ -11,4 +11,5 @@
 * [ES](/Elasticsearch/)
 * [linux](/centos/)
 * [ffmpeg](/ffmpeg/)
+* [yolo](/yolo/)
 
