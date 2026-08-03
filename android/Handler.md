@@ -8,7 +8,7 @@ Handler 负责发送消息
 
 Loooper 负责接收消息，并且将消息发送给Handler
 
-![dd](../images/Handler机制.bmp)
+![dd](../images/Handler%E6%9C%BA%E5%88%B6.bmp)
 
 ### 在主线程中发送消息到子线程中
 
