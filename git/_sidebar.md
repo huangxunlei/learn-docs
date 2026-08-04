@@ -1,3 +1,3 @@
 - [git生成SSH公钥](/git/生成SSH公钥)
 - [git操作命令](/git/git操作命令)
-- [git常规操作](/git/常规操作)
+- [git常规操作](/git/git常规操作)
